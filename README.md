@@ -2,14 +2,18 @@
 
 # Privacy Policy & Data Deletion
 
+This policy applies to the **OpenProject Mobile Client** developed by **[Your Developer Name]**.
+
 ## Data Deletion Request
-This app is a mobile client for the OpenProject platform. We do not host your personal data on our own servers.
+Users can request the deletion of their account and associated data through the following prominent steps:
 
-To delete your account and all associated data, please follow the steps relevant to your OpenProject instance:
+1. **Self-Hosted Instances:** As this app is a client for third-party servers, please contact your organization's System Administrator to request permanent account and data deletion.
+2. **OpenProject Cloud:** Log in to your account via the web interface at [community.openproject.org](https://community.openproject.org), navigate to **User Settings** > **Delete Account**.
 
-1. **Self-Hosted Instances:** Please contact the System Administrator of your organization's OpenProject instance to request account deletion.
-2. **OpenProject Cloud:** Log in to your account via a web browser, navigate to **User Settings** > **Delete Account**.
+## Data Retention & Types
+* **Deleted Data:** Upon request to your administrator, all personal profile data, work packages, and attachments are deleted from the server.
+* **Kept Data:** We do not retain any user data on our own servers.
+* **Local Data:** To delete local data (Server URL and API Token), simply **Log Out** or **Uninstall** the app. This removes all hardware-encrypted data from your device immediately.
 
-## Data Collected by the App
-* **Crash Reports:** We use Firebase Crashlytics to improve app stability. This data is anonymized and does not contain project secrets.
-* **Local Storage:** Your Server URL and API Token are stored securely on your device using hardware encryption and are never shared with us.
+## Data Collected
+* **Crash Logs:** Handled by Firebase Crashlytics for stability. This data is technical (device model, OS version) and contains no personal project data.
