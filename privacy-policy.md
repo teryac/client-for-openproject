@@ -13,7 +13,7 @@ Your data remains on your device.
 
 ## 2. Third-Party Services
 To improve app stability, we use the following third-party service:
-* **Firebase Crashlytics:** We collect anonymous crash reports to help us fix bugs. This data does not include your OpenProject content, URLs, or credentials. You can view Google’s Privacy Policy [here](https://policies.google.com/privacy).
+* **Firebase Crashlytics:** We collect anonymous crash reports to help us fix bugs. This data does not include your OpenProject content, URLs, or credentials. You can refer to Google’s Privacy Policy for more details.
 
 ## 3. Data Retention
 Because all data is stored locally, it is deleted immediately when you logout, uninstall the app, or clear the app's cache.
