@@ -25,4 +25,4 @@ The code for this application is open-source. You can audit our data handling an
 This application is intended for use by individuals aged 18 and over. We do not intentionally target or collect information from children under the age of 13 (or 16 in certain jurisdictions).
 
 ## 6. Contact Us
-If you have any questions, please contact us at: **contact@yaman-ka.com**
+If you have any questions, please contact us at: [**contact@yaman-ka.com**](mailto:contact@yaman-ka.com)
