@@ -3,7 +3,7 @@
 ---
 
 ## Data Deletion Request
-Users can request the deletion of their account and associated data through the following prominent steps:
+Users can request the deletion of their account and associated data through the following steps:
 
 1. **Self-Hosted Instances:** As this app is a client for third-party servers, please contact your organization's System Administrator to request permanent account and data deletion.
 2. **OpenProject Cloud:** Log in to your account via the web interface at [community.openproject.org](https://community.openproject.org), navigate to **User Settings** > **Delete Account**.
